@@ -45,8 +45,5 @@ Aqui você encontrará meus projetos mais recentes, estudos e contribuições.
 ---
 ✨ Este perfil é uma nova etapa da minha jornada como desenvolvedor. Vamos construir juntos!
 
-![José Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=jlfagundes-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlfagundes-dev&layout=compact&theme=radical)
 
 
