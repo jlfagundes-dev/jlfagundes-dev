@@ -37,6 +37,19 @@ Aqui você encontrará meus projetos mais recentes, estudos e contribuições.
 - Compartilhar projetos e aprendizados com a comunidade.
 - Construir conexões profissionais e colaborar em iniciativas open source.
 
+## 📜 Certificações
+### Microsoft
+- **DP-900** – Azure Data Fundamentals  
+- **AZ-900** – Microsoft Certified: Azure Fundamentals  
+- **SC-900** – Security, Compliance and Identity Fundamentals  
+- **AI-900** – Azure AI Fundamentals  
+- **DP-300** – Azure Database Administrator Associate  
+- **DP-420** – Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB  
+- **PL-900** – Microsoft Power Platform Fundamentals  
+### GitHub
+- **GH-300** – GitHub Copilot Fundamentals
+- **GitHub Copilot** - GitHub Copilot Fundamentals
+
 ## 📫 Contato
 - 📍 Brasília - DF, Brasil  
 - ✉️ jlfagundes@gmail.com  
